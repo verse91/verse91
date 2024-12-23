@@ -9,7 +9,7 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
-**Technology** and **Art** are my twin passions, driving my expertise in website creation. **System logic** and **functionality** are my strong point while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
+**Technology** and **Art** are my twin passions, driving my expertise in website creation. **System logic** and **functionality** are my strong points while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
 
 <details>
   <summary>More about me</summary>
