@@ -12,18 +12,21 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 **Technology** and **Art** are my twin passions, driving my expertise in website creation. **System logic** and **functionality** are my strong points while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
 
 <details>
-  <summary>More about me</summary>
+  <summary><b>More about me</b></summary>
 <br>
 
 - **Back-end Engineer** | **Front-end Developer** | **Editor**
-+ ***Software Engineer Skills:***
+<br></br>
+- ***Software Engineer Skills:***
 - **Programming**: Typescript | .NET Core (C#)
 - **Front-end (Basic):** ReactJS, NextJS | **UX/UI**
 - **Back-end (Intermediate):** ASP.NET Core, API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** SQL Server, MongoDB
-+ ***Other Skills:***
+<br></br>
+- ***Other Skills:***
 - **Social Videos Editor (Advanced)** | **Typography Motion Graphics (Basic)**
 - Entry-level in **Web Security**
+<br></br>
 - Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects**.
 - I’m currently learning **EVERYTHING**
