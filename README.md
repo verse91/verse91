@@ -9,7 +9,7 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
-**Technology** and **Art** are my twin passions, driving my expertise in website creation. I excel in **system logic** and **functionality** while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
+**Technology** and **Art** are my twin passions, driving my expertise in website creation. **System logic** and **functionality** are my strong point while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
 
 <details>
   <summary>More about me</summary>
@@ -17,8 +17,8 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Eng
 	
 - **From**: Vietnam
 - **Skills**: Typescript | .NET
-- **Front-end** (Intermediate) | **Back-end** (Beginner) | **UX/UI**
-- **Video Editor** (Advanced) | **Typography Motion Graphics** (Low-Level)
+- **Front-end** | **Back-end** | **UX/UI**
+- **Video Editor** | **Typography Motion Graphics**
 - Entry-level in **Web Security**
 - Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects**.
