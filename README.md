@@ -21,7 +21,7 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 - **Front-end (Basic):** ReactJS, NextJS | **UX/UI**
 - **Back-end (Intermediate):** ASP.NET Core, API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** SQL Server, MongoDB
-+ ***Editing Skills:***
++ ***Other Skills:***
 - **Social Videos Editor (Advanced)** | **Typography Motion Graphics (Basic)**
 - Entry-level in **Web Security**
 - Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
