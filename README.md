@@ -9,14 +9,13 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
-**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating **Dynamic Websites** and crafting eye-catching **Product Manipulation Poster**.
+**Technology** and **Art** are my twin passions, driving my expertise in website creation. I excel in **system logic** and **functionality** while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
 
 <details>
   <summary>More about me</summary>
 <br>
 	
 - **From**: Vietnam
-- **CE Student**
 - **Skills**: Typescript | .NET
 - **Front-end** (Intermediate) | **Back-end** (Beginner) | **UX/UI**
 - **Video Editor** (Advanced) | **Typography Motion Graphics** (Low-Level)
