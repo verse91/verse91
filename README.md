@@ -20,7 +20,7 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 - ****Software Engineer Skills:***
 - **Programming**: Typescript | .NET Core (C#)
 - **Front-end (Basic):** ReactJS, NextJS | **UX/UI**
-- **Back-end (Intermediate):** ASP.NET Core, API, Authentication & Authorization (OAuth, JWT), WebSocket
+- **Back-end (Intermediate):** ASP.NET Core (EF Core), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** MySQL, MongoDB
 <br></br>
 - ****Other Skills:***
