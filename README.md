@@ -16,13 +16,11 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Eng
 <br>
 	
 - **From:** Vietnam
-- **Skills:**
 - **Programming**: Typescript | .NET Core (C#)
 - **Front-end (Basic):** React, NextJS | **UX/UI**
-- **Back-end (Intermediate):** ASP.NET Core, API, Authentication& Authorization (OAuth, JWT), WebSocket
+- **Back-end (Intermediate):** ASP.NET Core, API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** SQL Server, MongoDB
-- **Other Skills:**
-- **Video Editor** | **Typography Motion Graphics**
+- **Video Editor (Advanced)** | **Typography Motion Graphics (Basic)**
 - Entry-level in **Web Security**
 - Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects**.
