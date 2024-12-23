@@ -17,13 +17,13 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 
 - **Back-end Engineer** | **Front-end Developer** | **Editor**
 <br></br>
-- ***Software Engineer Skills:***
+- ****Software Engineer Skills:***
 - **Programming**: Typescript | .NET Core (C#)
 - **Front-end (Basic):** ReactJS, NextJS | **UX/UI**
 - **Back-end (Intermediate):** ASP.NET Core, API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** SQL Server, MongoDB
 <br></br>
-- ***Other Skills:***
+- ****Other Skills:***
 - **Social Videos Editor (Advanced)** | **Typography Motion Graphics (Basic)**
 - Entry-level in **Web Security**
 <br></br>
