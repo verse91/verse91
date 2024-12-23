@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Developer** or **Front-end Developer** (Optional). <br>
+I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
 **Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating **Dynamic Websites** and crafting eye-catching **Product Manipulation Poster**.
 
 <details>
@@ -18,11 +18,11 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Develope
 - **From**: Vietnam
 - **CE Student**
 - **Skills**: Typescript | .NET
-- **Front-end Developer** (Intermediate) | **Back-end Development** (Beginner) | **UX/UI**
-- **Video Editor** (Advanced) | **Typography Motion Graphics** (Low-Level) | **Banner/Poster Ads Designer** (Intermediate)
+- **Front-end** (Intermediate) | **Back-end** (Beginner) | **UX/UI**
+- **Video Editor** (Advanced) | **Typography Motion Graphics** (Low-Level)
 - Entry-level in **Web Security**
-- Enhancing Expertise in **Back-End Web Development**, and a litlle bit of **Front-End Web Development** to create full, end-to-end applications
-- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
+- Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
+- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects**.
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
 </details>
