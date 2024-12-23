@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
+I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Engineer**. <br>
 **Technology** and **Art** are my twin passions, driving my expertise in website creation. I excel in **system logic** and **functionality** while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
 
 <details>
