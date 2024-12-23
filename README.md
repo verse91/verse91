@@ -14,7 +14,8 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming **Back-end Eng
 <details>
   <summary>More about me</summary>
 <br>
-	
+
+- **Back-end Engineer** | **Front-end Developer** | **Editor**
 - **From:** Vietnam
 - **Programming**: Typescript | .NET Core (C#)
 - **Front-end (Basic):** React, NextJS | **UX/UI**
