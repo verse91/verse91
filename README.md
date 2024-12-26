@@ -54,7 +54,7 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
-[![My Skills](https://skillicons.dev/icons?i=net,ts,python,nodejs,react,next,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,ts,python,nodejs,express,react,next,tailwindcss)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/c625cbc7-f168-49ba-8d45-9f66af0c7af4" width="35px"/> Tools</h2>
 
