@@ -73,6 +73,6 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 	</td>
 </table>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" height="auto" width="30%"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" target="_blank" height="auto" width="30%"/></a></p>
 <p align="center"><b><i>"Craft-based 🤝 Result-based."</i></b></p>
 <p align="center"><a>🌱</a></p>
