@@ -9,6 +9,7 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Programmer and Editor.<br>
+Building real **Products** for real **Clients**, not just more **Projects**<br>
 I'm on my way to becoming a well-rounded **Back-end Engineer**.
 
 
