@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Backend Developer and Editor.<br><br>
+I'm **Verse**, a Backend Engineer and Editor.<br><br>
 Building real **Products** for real **Clients**, not just more **Projects**
 <br><br><br>
 
