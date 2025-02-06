@@ -15,7 +15,7 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
   <summary><b>More about me</b></summary>
 <br>
 
-- **Back-end Engineer** | **Front-end Developer** | **Editor**
+- **Back-end Engineer** | **Editor**
 <br></br>
 - ****Software Engineer Skills:***
 - **Programming**: Typescript | .NET Core (C#)
