@@ -32,7 +32,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-L'Ventador_Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/VerseDev)
+[![Telegram](https://img.shields.io/badge/-Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/JustTheVerse)
 [![Instagram](https://img.shields.io/badge/-__verse.des-black?labelColor=black&logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/_verse.des)
 [![Email](https://img.shields.io/badge/-versedev.store@proton.me-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:versedev.store@proton.me)
 </div>
