@@ -10,7 +10,7 @@
 
 I'm **Verse**, a Programmer and Editor.<br>
 Building real **Products** for real **Clients**, not just more **Projects**<br>
-I'm on my way to becoming a well-rounded **Back-end Engineer**.
+I'm on my way to becoming a well-rounded **Back-end Engineer**.<br><br><br>
 
 
 <details>
