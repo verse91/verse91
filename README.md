@@ -8,8 +8,9 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded **Back-end Engineer**. <br>
-**Technology** and **Art** are my twin passions, driving my expertise in website creation. **API Design** and **Database Management** are my strong points while bringing a sharp eye for aesthetics, creating websites that are both powerful and visually captivating.
+I'm **Verse**, a Programmer and Editor.<br>
+I'm on my way to becoming a well-rounded **Back-end Engineer**.
+
 
 <details>
   <summary><b>More about me</b></summary>
@@ -17,19 +18,14 @@ I'm **Verse**, a Programmer and Editor. I'm on my way to becoming a well-rounded
 
 - **Back-end Engineer** | **Editor**
 <br></br>
-- ****Software Engineer Skills:***
 - **Programming**: Typescript | .NET Core (C#)
-- **Front-end (Basic):** ReactJS, NextJS | **UX/UI**
+- **Front-end (Basic):** ReactJS, NextJS
 - **Back-end (Intermediate):** ASP.NET Core (EF Core), NestJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** MySQL, MongoDB, DynamoDB
 <br></br>
-- ****Other Skills:***
 - **Social Videos Editor (Advanced)** | **Typography Motion Graphics (Basic)**
 - Entry-level in **Web Security**
 <br></br>
-- Enhancing Expertise in **Back-End Development**, and a little bit of **Front-End Web Development** to create full, end-to-end applications
-- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects**.
-- I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
 </details>
 
