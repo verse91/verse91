@@ -20,11 +20,11 @@ Building real **Products** for real **Clients**, not just more **Projects**
 - **Back-end Engineer** | **Editor**
 <br></br>
 - **Programming**: Typescript | .NET Core (C#)
-- **Front-end (Basic):** ReactJS, NextJS
-- **Back-end (Intermediate):** ASP.NET Core (EF Core), NestJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
+- **Front-end:** ReactJS, NextJS
+- **Back-end:** ASP.NET Core (EF Core), NestJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** MySQL, MongoDB, DynamoDB
 <br></br>
-- **Social Videos Editor (Advanced)** | **Typography Motion Graphics (Basic)**
+- **Social Videos Editor** | **Typography Motion Graphics**
 - Entry-level in **Web Security**
 <br></br>
 - Reach me out at **versedev.store@proton.me**
