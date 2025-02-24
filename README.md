@@ -19,10 +19,10 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 - **Back-end Engineer** | **Editor**
 <br></br>
-- **Programming**: Typescript | .NET Core (C#)
+- **Programming**: Typescript | Golang
 - **Front-end:** ReactJS, NextJS
-- **Back-end:** ASP.NET Core (EF Core), NestJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
-- **Database:** MySQL, MongoDB, DynamoDB
+- **Back-end:** Golang, ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
+- **Database:** PostgreSQL, MySQL, MongoDB, DynamoDB
 <br></br>
 - **Social Videos Editor** | **Typography Motion Graphics**
 - Entry-level in **Web Security**
@@ -51,11 +51,11 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
-[![My Skills](https://skillicons.dev/icons?i=net,ts,python,nodejs,nest,react,next,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,cpp,nodejs,express,react,next,tailwindcss)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/c625cbc7-f168-49ba-8d45-9f66af0c7af4" width="35px"/> Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,docker,npm,bun,vite,aws,cloudflare,vercel,netlify,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,docker,npm,bun,vite,aws,cloudflare,vercel,netlify,supabase)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/fadb4ba9-3268-4fd9-88a1-79fae257718a" width="35px"/> Editing</h2
 
