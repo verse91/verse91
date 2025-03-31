@@ -21,7 +21,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 <br></br>
 - **Programming**: Typescript | Golang
 - **Front-end:** ReactJS, NextJS
-- **Back-end:** Golang, ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
+- **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** PostgreSQL, MySQL, MongoDB, DynamoDB
 <br></br>
 - **Social Videos Editor** | **Typography Motion Graphics**
