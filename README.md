@@ -19,7 +19,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 - **Back-end Engineer** | **Editor**
 <br></br>
-- **Programming**: Typescript | Golang
+- **Programming**: Typescript | Golang | Python
 - **Front-end:** ReactJS, NextJS
 - **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
 - **Database:** PostgreSQL, MySQL, MongoDB, DynamoDB
@@ -50,7 +50,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,cpp,nodejs,express,react,next,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,nodejs,express,react,next,tailwindcss)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/c625cbc7-f168-49ba-8d45-9f66af0c7af4" width="35px"/> Tools</h2>
 
