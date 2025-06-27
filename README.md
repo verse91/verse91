@@ -38,8 +38,8 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 ---
 
+<!--
 <h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Projects</h1>
-
 ### My Own Projects
 <a href="https://github.com/verse91/SIESTA-BOT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verse91&repo=SIESTA-BOT&theme=great-gatsby&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
 <a href="https://github.com/verse91/walmart-business-account-register-tool"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verse91&repo=walmart-business-account-register-tool&theme=great-gatsby&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
@@ -47,6 +47,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 <a href="https://github.com/verse91/auto_python_vietnam"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verse91&repo=auto_python_vietnam&theme=great-gatsby&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
 
 <h5 align="center"><i>I'm sorry, because some of my repositories were given up or stopped working.<i/></h5>
+-->
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
