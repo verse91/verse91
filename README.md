@@ -9,7 +9,7 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Back-end Engineer and Editor.<br><br>
-Building real **Products** for real **Clients**, not just more **Projects**
+I'm looking for a **Back-end Developer** job. If you believe I could add value to your team, I’d love the opportunity.
 <br><br><br>
 
 
@@ -21,8 +21,8 @@ Building real **Products** for real **Clients**, not just more **Projects**
 <br></br>
 - **Programming**: Typescript | Golang | Python
 - **Front-end:** ReactJS, NextJS
-- **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket
-- **Database:** PostgreSQL, MySQL, MongoDB, DynamoDB
+- **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket, more
+- **Database:** PostgreSQL, MySQL, MongoDB
 <br></br>
 - **Social Videos Editor** | **Typography Motion Graphics**
 - Entry-level in **Web Security**
@@ -34,6 +34,7 @@ Building real **Products** for real **Clients**, not just more **Projects**
 
 [![Telegram](https://img.shields.io/badge/-Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/JustTheVerse)
 [![Email](https://img.shields.io/badge/-versedev.store@proton.me-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:versedev.store@proton.me)
+[![X (Twitter)](https://img.shields.io/badge/-JustTheVerse-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/justtheverse)
 </div>
 
 ---
