@@ -17,15 +17,15 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
   <summary><b>More about me</b></summary>
 <br>
 
-- **Back-end Developer** | **Editor**
+- **Back-end Developer**
 <br></br>
 - **Programming**: Typescript | Golang | Python
 - **Front-end:** ReactJS, NextJS
 - **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket, more
 - **Database:** PostgreSQL, MySQL, MongoDB
 <br></br>
-- **Social Videos Editor** | **Typography Motion Graphics**
 - Entry-level in **Web Security**
+- **Social Videos Editor** | **Typography Motion Graphics**
 <br></br>
 - Reach me out at **versedev.store@proton.me**
 </details>
