@@ -74,3 +74,7 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 <p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" height="auto" width="30%"/></a></p>
 <p align="center"><b><i>"Craft-based 🤝 Result-based."</i></b></p>
 <p align="center"><a>🌱</a></p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8DA59,50:F8DA59,100:F8DA59&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
