@@ -19,7 +19,7 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 
 - **Back-end Developer**
 <br></br>
-- **Programming**: Typescript | Golang | Python
+- **Programming**: Typescript | Golang
 - **Front-end:** ReactJS, NextJS, SvelteKit
 - **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket, more
 - **Database:** PostgreSQL, MySQL, MongoDB
