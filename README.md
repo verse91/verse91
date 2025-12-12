@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Back-end Developer and Editor.<br><br>
+I'm **Verse**, a Back-end Developer.<br><br>
 I'm looking for a **Back-end Developer** job. If you believe I could add value to your team, I’d love the opportunity.
 <br><br><br>
 
