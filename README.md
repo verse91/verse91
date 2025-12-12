@@ -26,7 +26,8 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 <br></br>
 - Entry-level in **Web Security**
 <br></br>
-- Reach me out at **versedev.store@proton.me**
+- Does this stack fit your project?
+- If yes, reach me at **versedev.store@proton.me**
 </details>
 
 <div align="center">
