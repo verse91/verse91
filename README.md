@@ -1,8 +1,8 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=500&color=FFCE76&width=435&lines=On+a+journey+to+become+a+great+human..." alt="Typing SVG" /></a>
-</div>
+</div> -->
 
 <img width="28%" align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
@@ -37,9 +37,9 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 [![X (Twitter)](https://img.shields.io/badge/-JustTheVerse-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/justtheverse)
 </div>
 
+<!--
 ---
 
-<!--
 <h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Projects</h1>
 ### My Own Projects
 <a href="https://github.com/verse91/SIESTA-BOT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verse91&repo=SIESTA-BOT&theme=great-gatsby&icon_color=FFFFFF&text_color=FFFFFF&bg_color=1e1e1e"/></a>
@@ -50,7 +50,7 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 <h5 align="center"><i>I'm sorry, because some of my repositories were given up or stopped working.<i/></h5>
 -->
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
+<!-- <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,nodejs,express,react,next,tailwindcss)](https://skillicons.dev)
 
@@ -77,4 +77,4 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8DA59,50:F8DA59,100:F8DA59&height=120&section=footer&animation=fadeIn" width="100%" />
-</div>
+</div> -->
