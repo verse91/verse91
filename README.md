@@ -32,9 +32,9 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/JustTheVerse)
+[![Telegram](https://img.shields.io/badge/-Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/VerseNilVis)
 [![Email](https://img.shields.io/badge/-versedev.store@proton.me-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:versedev.store@proton.me)
-[![X (Twitter)](https://img.shields.io/badge/-JustTheVerse-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/justtheverse)
+[![X (Twitter)](https://img.shields.io/badge/-VerseNilVis-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/VerseNilVis)
 </div>
 
 <!--
