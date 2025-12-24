@@ -28,6 +28,10 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
 <br></br>
 - Does this stack fit your project?
 - If yes, reach me at **versedev.store@proton.me**
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=versenilvis&theme=dark" />
+</div>
+
 </details>
 
 <div align="center">
