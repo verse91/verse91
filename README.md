@@ -17,17 +17,14 @@ I'm looking for a **Back-end Developer** job. If you believe I could add value t
   <summary><b>More about me</b></summary>
 <br>
 
-- **Back-end Developer**
-<br></br>
-- **Programming**: Typescript | Golang
-- **Front-end:** ReactJS, NextJS, SvelteKit
-- **Back-end:** Golang (Fiber), ExpressJS (TypeORM, Prisma), API, Authentication & Authorization (OAuth, JWT), WebSocket, more
-- **Database:** PostgreSQL, MySQL, MongoDB
-<br></br>
-- Entry-level in **Web Security**
-<br></br>
-- Does this stack fit your project?
-- If yes, reach me at **versedev.store@proton.me**
+I'm using Golang mainly in every project, with support of Typescript/Javascript.  
+Currently focus on:
+- System design
+- APIs and databases
+- Cloud native
+- Web security (Entry-level)
+
+I'm still learning and building projects surrounding some few topics like automation, orchestration, infrastructure and observability.
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=versenilvis&theme=dark" />
 </div>
