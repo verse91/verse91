@@ -9,7 +9,7 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 I'm **Verse**, a Back-end Developer.<br><br>
-I'm looking for a **Back-end Developer** job. If you believe I could add value to your team, I’d love the opportunity.
+<!--I'm looking for a **Back-end Developer** job. If you believe I could add value to your team, I’d love the opportunity. -->
 <br><br><br>
 
 
@@ -24,7 +24,7 @@ Currently focus on:
 - Cloud native
 - Web security (Entry-level)
 
-I'm still learning and building projects surrounding some few topics like automation, orchestration, infrastructure and observability.
+<!-- I'm still learning and building projects surrounding some few topics like automation, orchestration, infrastructure and observability. -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=versenilvis&theme=dark" />
 </div>
