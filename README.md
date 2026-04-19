@@ -8,8 +8,9 @@
 
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I'm **Verse**, a Back-end Developer.<br><br>
-<!--I'm looking for a **Back-end Developer** job. If you believe I could add value to your team, I’d love the opportunity. -->
+I'm **Verse**, a Back-end developer.<br><br>
+I'm looking for a Back-end Developer job. If you believe I could add value to your team, I’d love the opportunity.<br>
+Contact: versedev.store@proton.me
 <br><br><br>
 
 
@@ -17,12 +18,13 @@ I'm **Verse**, a Back-end Developer.<br><br>
   <summary><b>More about me</b></summary>
 <br>
 
+With a background as a Computer Engineering student, I am deeply passionate about exploring low-level system processing.  
 I'm using Golang mainly in every project, with support of Typescript/Javascript.  
+<!--
 Currently focus on:
 - System design
 - APIs and databases
-- Cloud native
-- Web security (Entry-level)
+- Web security (Entry-level) -->
 
 <!-- I'm still learning and building projects surrounding some few topics like automation, orchestration, infrastructure and observability. -->
 <div align="center">
