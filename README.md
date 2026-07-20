@@ -14,12 +14,12 @@ Contact: versedev.store@proton.me
 <br><br><br>
 
 
-<details>
+<!-- <details>
   <summary><b>More about me</b></summary>
 <br>
 
 With a background as a Computer Engineering student, I am deeply passionate about exploring low-level system processing.  
-I'm using Golang mainly in every project, with support of Typescript/Javascript.  
+I'm using Golang mainly in every project, with support of Typescript/Javascript.   -->
 <!--
 Currently focus on:
 - System design
@@ -27,11 +27,11 @@ Currently focus on:
 - Web security (Entry-level) -->
 
 <!-- I'm still learning and building projects surrounding some few topics like automation, orchestration, infrastructure and observability. -->
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=versenilvis&theme=dark" />
 </div>
 
-</details>
+</details> -->
 
 <div align="center">
 
